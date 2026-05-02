@@ -5,10 +5,10 @@
 
 ## 🌟 About Me  
 
-I'm a passionate technologist with **8+ years in Networking & Linux Administration** and **2 years in DevOps Engineering**.  
+I'm a passionate technologist with **8+ years in Networking ,Linux Administration and aws cloud infrastructure management** and **2+ years in DevOps Engineering**.  
 I love automating infrastructure, working with cloud platforms, and helping teams ship reliable software faster ⚡
 
-💡 My journey started with **Networking**, moved into **Linux administration**, and now I'm deeply into **DevOps & Cloud-native technologies**.
+💡 My journey started with **Networking**, moved into **Cloud**, and now I'm deeply into **DevOps & Cloud-native technologies**.
 
 ---
 
